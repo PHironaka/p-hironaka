@@ -1,19 +1,18 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+---
 title: Your awesome title
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
+description: |
   Peter Hironaka is a Digital Producer & Front-End Developer living by the beach in Los Angeles,CA.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: ''
+url: http://yourdomain.com
 twitter_username: peterhironaka
-github_username:  peterhironaka
-
-# Build settings
+github_username: peterhironaka
 markdown: kramdown
