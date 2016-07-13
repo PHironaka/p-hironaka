@@ -6,10 +6,9 @@ layout: default
 <h1>{{ site.description }}</h1>
 </div>
 
-<h1 class="page-heading">Recent Work</h1>
 
     {% for work in site.work %}
-{% if work.categories contains 'hero' limit:2 %}
+{% if work.categories contains 'hero' limit:3 %}
   <div class="post-list">
 
     <div class="post-img">
@@ -35,23 +34,19 @@ layout: default
   {% endif %}
 {% endfor %}
 
-
-{% for post in site.posts %}
-{% if post.tags contains 'archive' limit:10 %}
     <div class="archive-list">
-
-    <div class="archive-content">
-   <h2> <a href="{{work.url}}" class="title">{{work.title}}</a></h2>
-      <div class="archive-date">
-    <h3> {{work.date | date: "%m. %d. %Y"}}</h3>
-      </div>
-
-  </div>
+      <h1 class="page-heading">Archived Blog Posts</h1>
+{% for post in site.posts limit:10  %}
 
 
+     <li class="archive-item">
+       <h2><a class="archive-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+       <a class="archive-date" >{{ post.date | date: '%B %Y' }}</a>
+     </li>
 
-</div>
-  {% endif %}
+
+
 
 
 {% endfor %}
+</div>

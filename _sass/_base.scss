@@ -15,7 +15,7 @@ dl, dd, ol, ul, figure {
  */
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color: $text-color;
+    color: $brand-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
@@ -25,6 +25,10 @@ body {
     font-kerning: normal;
 }
 
+
+p {
+  color: $text-color;
+}
 
 
 /**
@@ -176,8 +180,9 @@ overflow: hidden;
 .home {
 @include outer-container;
   h1 {
-    margin: 5em 0;
+    margin: 3em 0;
     @include span-columns(8);
+    font-size: 2.31em;
     }
   }
 
