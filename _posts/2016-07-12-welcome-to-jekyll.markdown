@@ -1,11 +1,13 @@
 ---
 title: Welcome to Jekyll!
-date: 2016-07-12 18:37:14 Z
+date: 2016-07-12 18:37:00 Z
 categories:
 - jekyll
 - update
-layout: post
+tags:
+- archive
 img: j_mirror_f.jpg
+layout: post
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
