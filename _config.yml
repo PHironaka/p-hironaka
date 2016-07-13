@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
   work:
-    title: work
+    title: Work
     output: true
 email: your-email@domain.com
 description: |
