@@ -1,12 +1,15 @@
 ---
 title: Late Night Link Roundup
 date: 2015-09-14 07:16:00 Z
+categories:
+- archive
 tags:
-- Microsoft,
+- Microsoft
+- ''
 - Late
 - Night
-- Links,
-- Fun,
+- Links
+- Fun
 - Digital
 ---
 
