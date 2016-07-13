@@ -1,8 +1,12 @@
 ---
 title: Tools of The Trade
-date: 2015-07-18 16:42 UTC
-tags: Blog, Words, Tools
+date: 2015-07-18 16:42:00 Z
+tags:
+- Blog,
+- Words,
+- Tools
 ---
+
 Technology plays an integral part of my daily routine. As such, I wanted to put together a list of tools and applications I use.
 
 ### Applications I trust
