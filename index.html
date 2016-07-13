@@ -32,19 +32,26 @@ layout: default
       </div>
 
   </div>
-    {% endif %}
+  {% endif %}
+{% endfor %}
 
 
-  {% if work.archive contains 'archive' limit:10 %}
+{% for post in site.posts %}
+{% if post.tags contains 'archive' limit:10 %}
     <div class="archive-list">
+
     <div class="archive-content">
-   <h1> <a href="{{work.url}}" class="title">{{work.title}}</a></h1>
+   <h2> <a href="{{work.url}}" class="title">{{work.title}}</a></h2>
       <div class="archive-date">
     <h3> {{work.date | date: "%m. %d. %Y"}}</h3>
       </div>
 
   </div>
 
-    </article>
-      {% endif %}
-  {% endfor %}
+
+
+</div>
+  {% endif %}
+
+
+{% endfor %}

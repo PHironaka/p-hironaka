@@ -201,7 +201,16 @@ margin-bottom: 1em;
     font-size: 24px;
 }
 
+.archive-list {
+  border-top: 1px solid #eee;
+  margin: 2em 0;
+}
 
+.archive-content {
+  h2 {
+    font-size: 1.5em;
+  }
+}
 
 /**
  * Posts
