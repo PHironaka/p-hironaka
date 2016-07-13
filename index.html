@@ -8,13 +8,13 @@ layout: default
 
 <h1 class="page-heading">Recent Work</h1>
 
-    {% for post in site.posts %}
+    {% for work in site.works %}
 
   <div class="post-list">
 
     <div class="post-img">
 
-      <img src="/uploads/{{ post.img }}">
+      <img src="/uploads/{{ work.img }}">
 
 
     </div>
@@ -22,11 +22,11 @@ layout: default
     <div class="post-copy">
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a>
         </h2>
 
         <p>
-        {{ post.excerpt }}
+        {{ work.excerpt }}
         </p>
 
       </div>
