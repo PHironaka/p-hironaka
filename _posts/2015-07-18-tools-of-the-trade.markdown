@@ -1,9 +1,12 @@
 ---
 title: Tools of The Trade
 date: 2015-07-18 16:42:00 Z
+categories:
+- archive
 tags:
-- Blog,
-- Words,
+- Blog
+- ''
+- Words
 - Tools
 ---
 
