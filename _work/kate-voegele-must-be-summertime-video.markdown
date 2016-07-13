@@ -4,6 +4,7 @@ date: 2016-07-13 16:51:00 Z
 categories:
 - hero
 img: j_mirror_f.jpg
+link: http://www.miru.world/
 layout: post
 ---
 
