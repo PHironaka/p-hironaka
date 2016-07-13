@@ -4,6 +4,7 @@ date: 2016-07-12 18:37:00 Z
 categories:
 - jekyll
 - update
+- archive
 tags:
 - archive
 img: j_mirror_f.jpg
