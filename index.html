@@ -21,7 +21,7 @@ layout: default
     <div class="post-copy">
 
         <h2>
-          <a class="post-link" href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a>
+          <a class="post-link" href="{{ work.link }}">{{ work.title }}</a>
         </h2>
 
         <p>
@@ -36,7 +36,7 @@ layout: default
 
     <div class="archive-list">
       <h1 class="page-heading">Archived Blog Posts</h1>
-{% for post in site.posts limit:10  %}
+{% for post in site.posts limit:15 %}
 
 
      <li class="archive-item">
