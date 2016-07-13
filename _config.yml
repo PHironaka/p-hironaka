@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  work:
+    title: Work
+    output: true
 email: your-email@domain.com
 description: |
   Peter Hironaka is a Digital Producer & Front-End Developer living by the beach in Los Angeles,CA.
