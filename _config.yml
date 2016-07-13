@@ -19,4 +19,4 @@ url: http://yourdomain.com
 twitter_username: peterhironaka
 github_username: peterhironaka
 markdown: kramdown
-permalink: ":pretty"
+permalink: pretty

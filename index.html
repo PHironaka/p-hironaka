@@ -8,8 +8,8 @@ layout: default
 
 <h1 class="page-heading">Recent Work</h1>
 
-    {% for work in site.works %}
-
+    {% for work in site.work %}
+{% if work.categories contains 'hero' limit:2 %}
   <div class="post-list">
 
     <div class="post-img">
@@ -32,4 +32,5 @@ layout: default
       </div>
 
   </div>
+    {% endif %}
   {% endfor %}
