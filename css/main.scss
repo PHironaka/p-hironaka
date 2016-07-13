@@ -8,8 +8,9 @@
 
 // Our variables
 $base-font-family: 'Open Sans', sans-serif;
-$base-font-size:   1.1em;
-$header-font-size:   1.8em;
+$base-font-size:   1em;
+$header-font-size:   2.1em;
+$header-font-weight:   600;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -18,7 +19,7 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #000;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);

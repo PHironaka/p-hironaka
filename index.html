@@ -6,19 +6,20 @@ layout: default
 <h1>{{ site.description }}</h1>
 </div>
 
+<h1 class="page-heading">Recent Work</h1>
 
-  <ul class="post-list">
-      <h1 class="page-heading">Posts</h1>
     {% for post in site.posts %}
-    <li>
+
+  <div class="post-list">
+
+    <div class="post-img">
 
       <img src="/uploads/{{ post.img }}">
 
 
-    </li>
+    </div>
 
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <div class="post-copy">
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -28,6 +29,7 @@ layout: default
         {{ post.excerpt }}
         </p>
 
-      </li>
-    {% endfor %}
-  </ul>
+      </div>
+
+  </div>
+  {% endfor %}

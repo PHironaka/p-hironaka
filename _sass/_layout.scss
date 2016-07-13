@@ -174,11 +174,19 @@
 }
 
 .post-list {
-  @include span-columns(12);
-    list-style: none;
+@include outer-container;
+margin-bottom: 2em;
 
-    li {
-        @include span-columns(6);
+}
+
+.post-img {
+    @include span-columns(6);
+}
+.post-copy {
+  @include span-columns(6);
+
+    h2 {
+      font-weight: $header-font-weight;
     }
 }
 
