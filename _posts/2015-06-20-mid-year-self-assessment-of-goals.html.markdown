@@ -1,7 +1,9 @@
 ---
 title: Mid Year Review
-date: 2015-06-20 05:57 UTC
-tags: Goals, Personal
+date: 2015-06-20 05:57:00 Z
+tags:
+- Goals,
+- Personal
 ---
 
 Already July. Wow. Time sure flies when you're having fun, or maybe it just flies when life happens all at once. Seems as good a time as ever to take a step back and take a look at what's transpired so far in 2015 and what's to come for the remainder of the year.

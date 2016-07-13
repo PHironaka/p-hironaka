@@ -1,7 +1,13 @@
 ---
 title: 2015 MadburyClub.com Redesign
-date: 2015-06-10 18:37 UTC
-tags: Work, The Madbury Club, Website Development
+date: 2015-06-10 18:37:00 Z
+tags:
+- Work,
+- The
+- Madbury
+- Club,
+- Website
+- Development
 pageable: true
 ---
 

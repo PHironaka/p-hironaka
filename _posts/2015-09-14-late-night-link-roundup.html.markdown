@@ -1,7 +1,13 @@
 ---
 title: Late Night Link Roundup
-date: 2015-09-14 07:16 UTC
-tags: Microsoft, Late Night Links, Fun, Digital
+date: 2015-09-14 07:16:00 Z
+tags:
+- Microsoft,
+- Late
+- Night
+- Links,
+- Fun,
+- Digital
 ---
 
 Just finished off some late night coding and felt like giving some praise to a fun interactive execution that caught my eye.
