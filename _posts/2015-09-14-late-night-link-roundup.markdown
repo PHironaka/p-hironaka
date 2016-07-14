@@ -11,6 +11,7 @@ tags:
 - Links
 - Fun
 - Digital
+layout: post
 ---
 
 Just finished off some late night coding and felt like giving some praise to a fun interactive execution that caught my eye.
