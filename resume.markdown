@@ -17,8 +17,3 @@ It's a big part of my list of Goals for 2015, and to ensure that I deliver in fu
 
 This is just the beginning. What lies before you is but a mere responsive/quick/ static foundation. I want to develop my Front End skills further and teach myself a bunch of languages - mainly Ruby, Python, Django, Java, Swift, and more. No better place than to start right here.
 
-### Life Reckoning 
-
-In an effort to stay private, I will keep these posts to a minimum. 
-
-There you have it. Guess it's time to [ kick the tires and light the fire ](https://www.youtube.com/watch?v=2F1bMG9wzXY) .
