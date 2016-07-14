@@ -9,9 +9,9 @@
 }
 
 .site-title {
-    margin-bottom: 0;
+    margin:2em 0;
     float: left;
-    width: 7em;
+    width: 20em;
 
     &,
     &:visited {
@@ -186,6 +186,7 @@ margin-bottom: 1em;
 
     h2 {
       font-weight: $header-font-weight;
+      font-size: 1.3em;
     }
 }
 
@@ -194,10 +195,6 @@ margin-bottom: 1em;
     color: $grey-color;
 }
 
-.post-link {
-    display: block;
-    font-size: 24px;
-}
 
 .archive-list {
   margin: 4em 0;
