@@ -1,9 +1,7 @@
 ---
 title: NSW Instagram Content
 date: 2016-07-13 05:16:00 Z
-categories:
-- hero
-img: j_mirror_f.jpg
+archive: archive
 link: http://www.miru.world/
 layout: post
 ---

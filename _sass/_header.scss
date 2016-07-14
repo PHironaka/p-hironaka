@@ -8,44 +8,33 @@ z-index: 100;
 max-width: 100%;
 margin-left: auto;
 margin-right: auto;
-position: relative;
 display: block;
     margin-bottom: 1em;
   }
 
 .button_container {
-  max-width: 100%;
-margin-left: auto;
-margin-right: auto;
-position: relative;
-width: 100%;
-z-index: 5;
-padding: 0;
-
-
-  .left {
-    text-align: left;
-  display: block;
-  float: left;
-  padding: 9px 12px;
-  margin: 20px 0;
-  }
-
-  .right {
-    text-align: right;
-    display: block;
-    float: right;
-    margin: 20px 0;
-    padding: 9px 12px;
-    cursor: pointer;
-    border-radius: 8px;
-    padding: 10px;
-    margin: 20px 0;
+  position: relative;
+      top: 0%;
+      height: 27px;
+      width: 35px;
+      cursor: pointer;
+      z-index: 100;
+      transition: opacity .25s ease;
+      margin: 2em 0 6em 0;
+      float: right;
 
       &:hover {
-        background-color: #FF7E7E;
-        color: white;
+        opacity: .7;
       }
+
+
+  .right {
+    display: block;
+    float: right;
+    padding: 13px 18px;
+    cursor: pointer;
+
+
   }
 
   .logo {
@@ -60,17 +49,32 @@ padding: 0;
       }
 }
 
-
+/* line 59, ../sass/modules/_global-styles.scss */
+.button_container.active .top {
+  transform: translateY(10px) translateX(0) rotate(45deg);
+  background: #FFF;
+}
+/* line 63, ../sass/modules/_global-styles.scss */
+.button_container.active .middle {
+  opacity: 0;
+  background: #FFF;
+}
+/* line 68, ../sass/modules/_global-styles.scss */
+.button_container.active .bottom {
+  transform: translateY(-10px) translateX(0) rotate(-45deg);
+  background: #FFF;
+}
 
   span {
-  border: none;
-  height: 5px;
-  width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  transition:  all .35s ease;
-  cursor: pointer;
+    background: black;
+        border: none;
+        height: 1px;
+        width: 100%;
+        position: absolute;
+        top: 0px;
+        right: 0;
+        transition: all .35s ease;
+        cursor: pointer;
 
     &:nth-of-type(2) {
       top: 11px;
@@ -123,14 +127,14 @@ padding: 0;
     font-size: 1.5em;
 
     p {
-
+      color: black;
       margin: 0 0 2em;
     }
   }
   ul {
     list-style: none;
     padding: 0;
-    margin: 1em auto;
+    margin: 0 auto;
     display: inline-block;
     position: relative;
     height: 100%;

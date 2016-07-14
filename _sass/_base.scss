@@ -25,6 +25,9 @@ body {
     font-kerning: normal;
 }
 
+hr {
+  margin: 2em 0;
+}
 
 p {
   color: $text-color;
@@ -72,9 +75,11 @@ figcaption {
 
 
 li {
+    list-style: none;
     > ul,
     > ol {
          margin-bottom: 0;
+
     }
 }
 

@@ -1,9 +1,9 @@
 ---
 title: Hulu Seinfeld Holiday Campaign
-date: 2016-07-13 05:16:00 Z
+date: 2016-07-10 05:16:00 Z
 categories:
 - hero
-img: j_mirror_f.jpg
+img: thumb.jpg
 link: http://www.miru.world/
 layout: post
 ---

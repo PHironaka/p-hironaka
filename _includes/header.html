@@ -3,17 +3,27 @@
   <div class="wrapper">
 
     <a class="site-title" href="{{ site.baseurl }}/"><img src="/img/pj-logo-2.svg"></a>
+ <nav  id="toggle" class="button_container">
+   <div class="right" id="toggle">
+  <span class="top"></span>
+  <span class="middle"></span>
+  <span class="bottom"></span>
+</div>
 
+   </nav>
     <div id="overlay" class="overlay">
           <nav class="overlay-menu">
             <ul>
-              <li><p> Welcome to Miru. A fun, quirky travel blog dedicated to good times and excellent adventures. </p></li>
               <li><a href="/">Home</a></li>
               <li><a href="/about">About</a></li>
-              <li><a href="/contact">Contact</a></li>
-              <li><a href="/blog">Posts</a></li>
-              <li><a href="/destinations">Destinations</a></li>
-              <li><a href="/blog"><img src="/img/twitter.svg"></a></li>
+              <li><a href="/resume">Resumé</a></li>
+              <li><a href="/destinations">Projects</a></li>
+              {% if site.github_username %}
+              <li>
+                {% include icon-github.html username=site.github_username %}
+              </li>
+              {% endif %}
+              <li><a href="https://twitter.com/peterhironaka" target="_blank"><img src="/img/twitter-blue.svg"></a></li>
             </ul>
           </nav>
         </div>

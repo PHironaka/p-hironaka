@@ -1,9 +1,10 @@
 ---
-title: Luke Monaghan | Director
-date: 2016-07-13 16:50:00 Z
-archive: archive
+title: Miru World Travel Journal
+date: 2016-07-10 16:50:00 Z
+categories:
+- hero
 layout: post
-img: j_mirror_f.jpg
+img: mworld.png
 ---
 
 Built a simple portfolio site for the talented young British Director. I used Static Site generator Middleman.

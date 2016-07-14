@@ -13,8 +13,22 @@
       </div>
     </div>
 
-    {% include footer.html %}
+    <footer class="site-footer">
+        <div class="wrapper">
+    <p> &#169; Peter Hironaka 2016 </p>
+      </div>
+    </footer>
 
   </body>
+
+
+  <script src="/js/all.js"></script>
+  <script src="/js/exampleUsage.js"></script>
+  <script>
+  $('.right').click(function() {
+     $(this).toggleClass('active');
+     $('#overlay').toggleClass('open');
+    });
+  </script>
 
 </html>
