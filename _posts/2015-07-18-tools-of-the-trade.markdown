@@ -8,6 +8,7 @@ tags:
 - ''
 - Words
 - Tools
+layout: post
 ---
 
 Technology plays an integral part of my daily routine. As such, I wanted to put together a list of tools and applications I use.
