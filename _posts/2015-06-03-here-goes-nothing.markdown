@@ -2,10 +2,12 @@
 title: Here goes nothing...
 date: 2015-06-03 18:29:00 Z
 tags:
-- Blog,
-- Words,
+- Blog
+- ''
+- Words
 - First
 - Post
+layout: post
 ---
 
 After much tossing and turning, I've decided to take the plunge and invest a chunk of my weekly agenda into this here currently non-existant blog. I read a ton of blogs and sites and have recently felt inspired enough to share my point of view with the world. I mean, it is 2015 right?? If nothing else, it will provide me some time to strengthen my puny writing skills (bare with me, it's going to take some time to find my stride...) Here's what I'd like the focus of my posts to be (These are all subject to change at any given time):
