@@ -4,7 +4,7 @@ date: 2016-07-14 02:35:00 Z
 layout: default
 ---
 
-### Trophies
+### Hulu 
 
 The last thing I'd want to do is turn this whole endeavor into a boast fest of all my accomplishments. Having said that, I do intend to highlight certain moments or feats of my own that deserve recognition. It could be a  product launch (foreshadowing), it could be a new job, a basket weaving competition, whatever. I'll leave this one open-ended for now.
 
