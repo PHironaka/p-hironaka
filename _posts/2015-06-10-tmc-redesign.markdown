@@ -2,13 +2,15 @@
 title: 2015 MadburyClub.com Redesign
 date: 2015-06-10 18:37:00 Z
 tags:
-- Work,
+- Work
+- ''
 - The
 - Madbury
-- Club,
+- Club
 - Website
 - Development
 pageable: true
+layout: post
 ---
 
 Since its inception in early 2010, The Madbury Club's digital presence has evolved at the same frenetic pace as its work. It started out as a blog. Then it became a music review site. Then Spreads. Then Editorial pieces. 
