@@ -10,7 +10,7 @@ The last thing I'd want to do is turn this whole endeavor into a boast fest of a
 
 The last thing I'd want to do is turn this whole endeavor into a boast fest of all my accomplishments. Having said that, I do intend to highlight certain moments or feats of my own that deserve recognition. It could be a  product launch (foreshadowing), it could be a new job, a basket weaving competition, whatever. I'll leave this one open-ended for now..
 
-_
+___
 
 ### Space150 - Digital Producer // July 2016 - Present
 
