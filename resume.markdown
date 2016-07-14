@@ -8,7 +8,7 @@ layout: default
 
 The last thing I'd want to do is turn this whole endeavor into a boast fest of all my accomplishments. Having said that, I do intend to highlight certain moments or feats of my own that deserve recognition. It could be a  product launch (foreshadowing), it could be a new job, a basket weaving competition, whatever. I'll leave this one open-ended for now.
 
-### The Madbury Club - Digital Producer & Front-End Web Developer // February 2013 - May 2015
+### The Madbury Club - Digital Producer & Front-End Web Developer // January 2013 - May 2015
 
 It's a big part of my list of Goals for 2015, and to ensure that I deliver in full, I will make the effort to also update the blog on all new happenings in this arena. Really feel it's important to give back to my local community and do my part to make it a better place to live. 
 
