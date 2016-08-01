@@ -2,24 +2,31 @@
 layout: default
 ---
 
-    {% for work in site.work %}
+<div class="archive-page-header">
+  {{ content }}
+</div>
 
-<article class="post" >
+{% for work in site.work %}
+<div class="post-list">
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ work.title }}</h1>
-    <p class="post-meta"><time datetime="{{ work.date | date_to_xmlschema }}" itemprop="datePublished">{{ work.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+<div class="post-img">
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
+  <img src="/uploads/{{ work.img }}">
+
+
+</div>
+
+<div class="post-copy">
+
+    <h2>
+      <a class="post-link" href="{{ work.link }}">{{ work.title }}</a>
+    </h2>
+
+    <p>
+    {{ work.excerpt }}
+    </p>
+
   </div>
 
-</article>
-
-{% include pagination.html %}
-
-
-
-
+</div>
 {% endfor %}

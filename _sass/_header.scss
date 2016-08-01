@@ -20,7 +20,7 @@ display: block;
       cursor: pointer;
       z-index: 100;
       transition: opacity .25s ease;
-      margin: 2em 0 6em 0;
+      margin: 2em 0 1em 0;
       float: right;
 
       &:hover {
@@ -37,17 +37,7 @@ display: block;
 
   }
 
-  .logo {
-    font-family: 'Spicy Rice', cursive;
-    text-align: center;
-    font-size: 4em;
-    width: 500px;
-    margin: 0 auto;
-
-      a {
-        color: #FF7E7E;
-      }
-}
+  
 
 /* line 59, ../sass/modules/_global-styles.scss */
 .button_container.active .top {

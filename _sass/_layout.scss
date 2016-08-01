@@ -93,8 +93,12 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+
+
+       span {
+         color: red;
+       }
+
 }
 
 .footer-heading {
@@ -166,11 +170,6 @@
     padding: 0;
 }
 
-.page-heading {
-    font-size: 1.3em;
-    font-weight: $header-font-weight;
-}
-
 .post-list {
 @include outer-container;
 margin-bottom: 1em;
@@ -195,28 +194,43 @@ margin-bottom: 1em;
     color: $grey-color;
 }
 
+.archive-page-header {
+  @include outer-container;
+
+  p {
+    @include span-columns(9);
+    padding: 0 0 4em;
+  }
+}
 
 .archive-list {
+  @include outer-container;
+
   margin: 4em 0;
 }
 
+ @include direction-context(right-to-left) {
+
 .archive-item {
-  border-top: 1px solid #eee;
-@include outer-container;
+    @include span-columns(7);
   text-decoration: none;
   list-style: none;
-  padding: 9px 0;
+  border-top: 2px solid #eee;
+padding: 15px 0;
 
     h2 {
-      @include span-columns(10);
-      font-size: 1.1em;
+      font-size: 1.11em;
       margin-bottom: 0;
     }
     .archive-date {
       @include span-columns(2);
         color: $text-color;
     }
+}
 
+.archive-item:first-child {
+      border-top: 1px solid #eee;
+}
 }
 
 /**
@@ -238,7 +252,9 @@ margin-bottom: 1em;
     padding-top: 1em;
 }
 
-.post-content {
+
+
+.post-content, .work-content {
   @include span-columns(9);
     margin-bottom: $spacing-unit;
 

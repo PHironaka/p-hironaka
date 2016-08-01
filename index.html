@@ -2,51 +2,30 @@
 layout: default
 ---
 
+
 <div class="home">
-<h1>{{ site.description }}</h1>
+
+  <h1 class="home-bio">{{site.description}}</h1>
+  <img src="{{site.image}}">
 </div>
 
 
-    {% for work in site.work %}
-{% if work.categories contains 'hero' limit:3 %}
-  <div class="post-list">
+<h1 class="page-heading">Production/Dev Credits</h1>
 
-    <div class="post-img">
-
-      <img src="/uploads/{{ work.img }}">
-
-
-    </div>
-
-    <div class="post-copy">
-
-        <h2>
-          <a class="post-link" href="{{ work.link }}">{{ work.title }}</a>
-        </h2>
-
-        <p>
-        {{ work.excerpt }}
-        </p>
-
-      </div>
-
-  </div>
-  {% endif %}
-{% endfor %}
-
-    <div class="archive-list">
-      <h1 class="page-heading">Archived Blog Posts</h1>
-{% for post in site.posts limit:15 %}
-
-
-     <li class="archive-item">
-       <h2><a class="archive-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-       <a class="archive-date" >{{ post.date | date: '%B %Y' }}</a>
-     </li>
-
-
-
-
-
-{% endfor %}
-</div>
+<ul class="archive-list">
+  {% for post in site.posts %}
+    {% assign month = post.date | date: ' %Y' %}
+    {% unless post.next %}<!-- first post -->
+      <h2 class="archive__month">{{ month }}</h2>
+    {% else %}
+      {% capture next_month %}{{ post.next.date | date: ' %Y' }}{% endcapture %}
+      {% if month != next_month %}
+        <h2 class="archive__month">{{ month }}</h2>
+      {% endif %}
+    {% endunless %}
+    <li class="archive-item">
+      <a class="archive__link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <p> {{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
