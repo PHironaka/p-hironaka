@@ -13,8 +13,53 @@
       </div>
     </div>
 
-    {% include footer.html %}
+    <footer class="site-footer">
+        <div class="wrapper">
+    <h5>  Built with <span>	&hearts; </span> in Venice</h5>
+
+    <div class="social">
+
+      <ul>
+
+        {% if site.github_username %}
+        <li>
+          {% include icon-github.html username=site.github_username %}
+        </li>
+        {% endif %}
+
+        {% if site.instagram_username %}
+        <li>
+          {% include icon-instagram.html username=site.instagram_username %}
+        </li>
+        {% endif %}
+
+        {% if site.twitter_username %}
+        <li>
+          {% include icon-twitter.html username=site.twitter_username %}
+        </li>
+        {% endif %}
+
+        {% if site.codepen_username %}
+        <li>
+          {% include icon-codepen.html username=site.codepen_username %}
+        </li>
+        {% endif %}
+
+      </ul>
+      </div>
+      </div>
+    </footer>
 
   </body>
+
+
+  <script src="/js/all.js"></script>
+  <script src="/js/exampleUsage.js"></script>
+  <script>
+  $('.right').click(function() {
+     $(this).toggleClass('active');
+     $('#overlay').toggleClass('open');
+    });
+  </script>
 
 </html>

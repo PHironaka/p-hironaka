@@ -7,30 +7,29 @@
 
 
 // Our variables
-$base-font-family: 'Open Sans', sans-serif;
+$base-font-family: 'Source Sans Pro', sans-serif;
 $base-font-size:   1em;
 $header-font-size:   2.1em;
-$header-font-weight:   600;
+$header-font-weight: 900;
+$paragraph-font-weight: 300;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
-
 $spacing-unit:     30px;
-
-$text-color:       #111;
+$text-color:       #666;
 $background-color: #fdfdfd;
 $brand-color:      #000;
-
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+
 // Width of the content area
 $content-width:    800px;
-
 $on-palm:          600px;
 $on-laptop:        800px;
-
+$break-small:      700px;
+$break-large:      900px;
 
 
 // Use media queries like this:
@@ -58,6 +57,7 @@ box-sizing: border-box;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "header"
 
 ;

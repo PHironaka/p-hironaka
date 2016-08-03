@@ -1,10 +1,10 @@
 ---
 title: NSW Instagram Content
-date: 2016-07-13 05:16:00 Z
-categories:
-- hero
+date: 2014-07-13 05:16:00 Z
+archive: archive
+img: nsw.jpg
+link: http://www.miru.world/
 layout: post
-img: j_mirror_f.jpg
 ---
 
-This is not an unvitation. It's an invitation. Watch every joyous episode of Seinfeld, now streaming on Hulu.
+This is not an unvitation. It's an invitation. Watch every joyous episode of Seinfeld, now streaming on Hulu. his is not an unvitation. It’s an invitation. Watch every joyous episode of Seinfeld, now streaming on Hulu.

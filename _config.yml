@@ -14,9 +14,12 @@ collections:
 email: your-email@domain.com
 description: |
   Peter Hironaka is a Digital Producer & Front-End Developer living by the beach in Los Angeles,CA.
+asset: "/uploads/DSCF6211.JPG"
 baseurl: 
 url: http://yourdomain.com
 twitter_username: peterhironaka
-github_username: peterhironaka
+github_username: phironaka
+instagram_username: peterhironaka
+codepen_username: peterhironaka
 markdown: kramdown
 permalink: pretty
