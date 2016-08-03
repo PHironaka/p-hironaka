@@ -181,6 +181,10 @@ margin-bottom: 1em;
   @include outer-container;
 
   margin: 4em 0;
+  @media screen and (max-width: $break-small) {
+    margin: 2em 0;
+
+  }
 }
 
  @include direction-context(right-to-left) {
