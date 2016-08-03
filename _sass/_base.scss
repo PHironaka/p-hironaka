@@ -201,6 +201,9 @@ overflow: hidden;
 @include outer-container;
 margin: 2em 0 6em;
 
+@media screen and (max-width: $break-small) {
+      margin: 1em 0 1em;
+}
 
   img {
     @include span-columns(4);
@@ -226,7 +229,14 @@ margin: 2em 0 6em;
  }
   }
 
+.page-heading {
 
+  h1 {
+    @media screen and (max-width: $break-small) {
+      font-size: 1.7em;
+    }
+  }
+}
 
 
 /**
