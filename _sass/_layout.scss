@@ -229,6 +229,7 @@ margin: 0;
 
  .post {
    @include outer-container;
+       margin-bottom: 3em;
  }
 
 .post-header {
