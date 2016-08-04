@@ -5,6 +5,7 @@ categories:
 - hero
 layout: post
 img: mworld.png
+link: http://lukemonaghan.co
 ---
 
 Built a simple portfolio site for the talented young British Director. I used Static Site generator Middleman.
