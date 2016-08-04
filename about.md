@@ -10,7 +10,7 @@ I'm hoping to keep this v348 of my website maintained w/some semblance of regula
 
 Enough of the boring stuff though, right? Here's a few things I'm into these days:
 
-* Teaching myself to 🏄🏽
-* Stranger things
-* The ocean and how we can preserve its beauty as humans
-* Figuring out how Kevin Durant is going to fit into that Splash Brothery monstrosity up in The Bay.
+- * Teaching myself to 🏄🏽
+- * Stranger things
+- * The ocean and how we can preserve its beauty as humans
+- * Figuring out how Kevin Durant is going to fit into that Splash Brothery monstrosity up in The Bay.
