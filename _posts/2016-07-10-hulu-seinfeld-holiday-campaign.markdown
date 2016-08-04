@@ -4,7 +4,7 @@ date: 2016-07-10 05:16:00 Z
 categories:
 - hero
 img: thumb.jpg
-link: http://www.miru.world/
+link: http://www.hulu.com/watch/874418
 layout: post
 ---
 
