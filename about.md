@@ -14,4 +14,4 @@ Enough of the boring stuff though, right? Here's a few things I'm into these day
 * Teaching myself to 🏄🏽
 * Stranger things
 * The ocean and how we can preserve its beauty as humans
-* Figuring out how Kevin Durant is going to fit into that Splash Brothery monstrosaty up in The Bay.
+* Figuring out how Kevin Durant is going to fit into that Splash Brothery monstrosity up in The Bay.
