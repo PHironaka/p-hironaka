@@ -247,6 +247,28 @@ margin: 0;
 .post-content, .work-content {
   @include span-columns(9);
     margin-bottom: $spacing-unit;
+    @media screen and (max-width: $break-small) {
+    width: 100%;
+    float: none;
+    border: none;
+    margin: 0;
+
+    }
+
+    h1 {
+      margin: 1em 0 ;
+
+      @media screen and (max-width: $break-small) {
+        font-size:1.5em;
+
+
+      }
+
+    }
+
+    p {
+      margin: 2em 0;
+    }
 
     h2 {
       font-size:1.5em;
