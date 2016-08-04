@@ -12,17 +12,11 @@ I'm hoping to keep this v348 of my website maintained w/some semblance of regula
 Enough of the boring stuff though, right? Here's a few things I'm into these days:
 
 1. Teaching myself to 🏄🏽
-
 2. Stranger things
-
 3. The ocean and how we can preserve its beauty as humans
-
-4. Figuring out how Kevin Durant is going to fit into that Splash
- Brothery monstrosity up in The Bay.
+4. Figuring out how Kevin Durant is going to fit into that Splash Brothery monstrosity up in The Bay.
 5. Reading
-
 6. Keeping our beaches clean
-
 7. Seeing the world through Kamauri's eyes
-
+8. Flake's Turkey Sausage Breakfast Burrito
 
