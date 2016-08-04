@@ -4,6 +4,7 @@ date: 2015-07-10 16:50:00 Z
 categories:
 - hero
 img: browser-source-code.jpg
+link: "/hero/2015/07/10/tmc-redesign-2015"
 layout: post
 ---
 
