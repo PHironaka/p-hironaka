@@ -6,39 +6,26 @@ layout: page
 
 # Resumé of Peter Hironaka
 
-The last thing I'd want to do is turn this whole endeavor into a boast fest of all my accomplishments. Having said that, I do intend to highlight certain moments or feats of my own that deserve recognition. It could be a  product launch (foreshadowing), it could be a new job, a basket weaving competition, whatever. I'll leave this one open-ended for now..
-
-The last thing I'd want to do is turn this whole endeavor into a boast fest of all my accomplishments. Having said that, I do intend to highlight certain moments or feats of my own that deserve recognition. It could be a  product launch (foreshadowing), it could be a new job, a basket weaving competition, whatever. I'll leave this one open-ended for now..
-
-___
-
-### Space150 - Digital Producer // July 2016 - Present
-
-The last thing I'd want to do is turn this whole endeavor into a boast fest of all my accomplishments. Having said that, I do intend to highlight certain moments or feats of my own that deserve recognition. It could be a  product launch (foreshadowing), it could be a new job, a basket weaving competition, whatever. I'll leave this one open-ended for now..
+Currently residing in Venice, California. I’m organized, thoughtful, and results driven. The majority of my experience has been in both Digital and Social Media Production. I have also have experience building websites of varying size and scope. 
 
 
+### Space150 - Digital Producer |  2016
 
-### Hulu - Digital Producer, Marketing // Aug 2015 - July 2016
+Currently the new kid in school.
 
-The last thing I'd want to do is turn this whole endeavor into a boast fest of all my accomplishments. Having said that, I do intend to highlight certain moments or feats of my own that deserve recognition. It could be a  product launch (foreshadowing), it could be a new job, a basket weaving competition, whatever. I'll leave this one open-ended for now.
+### Hulu - Digital Producer, Marketing |  2015 - 2016
 
-### The Madbury Club - Digital Producer & Front-End Web Developer // January 2013 - May 2015
+Full time Hulugan and Digital Producer on the Creative Services team with a focus on Original and Acquired Content. It was my first foray into the world of TV and Entertainment Marketing. I helped produce and publish marketing materials for the following teams: Content Marketing, Brand, Email Marketing, Public Relations and Events.
 
-Lead Producer & Account Lead for Nike Sportswear Instagram & Native
-Shoes.
-- Grew the Nike Sportswear IG community from 70k to over 1 million in
-less than one year.
-- Negotiated Rates with Clients.
-- HTML Newsletters for various NikeLab event recaps.
-- Designed decks for Client presentations.
-- SS15 Seasonal Direction Deck for Native’s Sales team to use as a tool.
-- Project Managed Creative Development and execution of content published
-in Native’s SS15 & FW15 Catalogue.
-- Supervisor of creative strategy in Film projects.
-- Member of core New Business Team.
-- Director of Accounts Payable.
-- Lead Web Developer.
+### The Madbury Club - Digital Producer & Front-End Web Developer |  2013 - 2015
 
-### Wieden + Kennedy // November 2011 - January 2013
+Made a lot of fun stuff with my friends. I was also fortunate to collaborate with some of the greatest brands in the world. Oh, and I got to be an astronaut for a day. Take that, take that.
 
-This is just the beginning. What lies before you is but a mere responsive/quick/ static foundation. I want to develop my Front End skills further and teach myself a bunch of languages - mainly Ruby, Python, Django, Java, Swift, and more. No better place than to start right here.
+The Madbury Club is a Creative House based in Brooklyn, NY. As a proud member of the team, I had the privilege of managing a wide variety of tasks and initiatives for the company. I worked remotely throughout my tenure with Madbury, managing the entire team’s workflow - composing weekly to-do lists for each member of the team, as well as organizing our Projects Calendar on Basecamp. I was also instrumental in on boarding new project management tools that would eventually become an integral part of our day to day communication and process, namely Google Hangouts and Slack.
+
+As Producer and Account Lead, I lead the following client accounts: Nike Sportswear and Native Shoes (Seasonal Catalogue deliveries, promotional content, IG, etc.)
+
+
+### Wieden + Kennedy | 2011 - 2013
+
+This was the unofficial beginning of my journey. As a Jr. Interactive Producer, I produced Banner Ads and Microsites for such notable brands as Old Spice, Coca-Cola, Nike Football (US), Dodge and Travel Oregon.
