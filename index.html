@@ -26,7 +26,7 @@ layout: default
       {% endif %}
     {% endunless %}
     <li class="archive-item">
-      <a class="archive__link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}  &#x21B3;</a>
+      <a class="archive__link" href="{{ post.link }}">{{ post.title }}  &#x21B3;</a>
       <p> {{ post.excerpt }}</p>
     </li>
   {% endfor %}

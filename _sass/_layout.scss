@@ -242,7 +242,12 @@ margin: 0;
     padding-top: 1em;
 }
 
+.post-content li {
 
+          color: #666;
+          margin: .5em 0;
+
+}
 
 .post-content, .work-content {
   @include span-columns(9);
@@ -262,11 +267,6 @@ margin: 0;
         font-size:1.5em;
 
 
-      }
-
-      li {
-        color: #666;
-        margin: 1em 0;
       }
 
     }
