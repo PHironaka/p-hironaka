@@ -1,9 +1,9 @@
 ---
-title: Luke Monaghan Director
+title: Miru World Travel Journal
 date: 2016-07-10 16:50:00 Z
 categories:
 - hero
-img: j_mirror_f.jpg
+img: miru.jpg
 link: http://miru.world
 layout: post
 ---

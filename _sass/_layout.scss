@@ -142,11 +142,15 @@
  */
 .page-content {
     padding: 0;
+
+    &--home {
+      padding: 5em 0;
+    }
 }
 
 .post-list {
 @include outer-container;
-margin-bottom: 3em;
+margin: 3em 0;
 
 }
 
@@ -155,10 +159,14 @@ margin-bottom: 3em;
 }
 .post-copy {
   @include span-columns(7);
-  padding: 0 1em;
+  padding: 0 2em;
 
     h2 {
       font-size: 1.3em;
+      a {
+        color: #666;
+      }
+
     }
 }
 
