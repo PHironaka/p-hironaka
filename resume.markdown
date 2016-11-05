@@ -5,7 +5,7 @@ position: 1
 layout: page
 ---
 
-Resumé of Peter Hironaka
+#Resumé of Peter Hironaka
 
 Currently residing in Venice, California. I’m organized, thoughtful, and results driven. The majority of my experience has been in both Digital and Social Media Production. I have also have experience building websites of varying size and scope. 
 
