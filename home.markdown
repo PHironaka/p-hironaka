@@ -10,6 +10,6 @@ Otherwise, I can be found on the usual: [Twitter](http://twitter.com/peterhirona
 
 Here is a direct link to my Portfolio.
 
-Here is my Resumé.
+If you're interested in checking out some of my previous work experience, my CV can be found [here](/resume).
 
 Boom.
