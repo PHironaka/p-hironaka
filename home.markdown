@@ -8,7 +8,7 @@ Hello 👋🏼, my name is Peter Hironaka, a Front-End Developer based in Venice
 
 Otherwise, I can be found on the usual: [Twitter](http://twitter.com/peterhironaka), [Instagram](http://instagram.com/peterhironaka), [LinkedIn](http://linkedin.com/peterhironaka), and Snapchat.
 
-Here is a direct link to my Portfolio.
+Here is a direct link to my [Portfolio](/work).
 
 If you're interested in checking out some of my previous work experience, my CV can be found [here](/resume).
 
