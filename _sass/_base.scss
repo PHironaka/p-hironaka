@@ -14,8 +14,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-
+    font-family: $base-font-family;
     color: $brand-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
@@ -23,7 +22,9 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
-    background-color: #f9f9f9;
+    background-color: #fff;
+    line-height: 1.5;
+    font-size: 1em;
 }
 
 hr {
@@ -182,7 +183,7 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: 68em;
+  max-width: 63em;
 margin-left: auto;
 margin-right: auto;
 margin: 0 auto;
@@ -198,8 +199,8 @@ overflow: hidden;
  * Home-Intro
  */
 .home {
-@include outer-container;
-margin: 2em 0 6em;
+  @include span-columns(9);
+  padding: 0 0 4em;
 
 @media screen and (max-width: $break-small) {
       margin: 1em 0 1em;
@@ -209,11 +210,11 @@ margin: 2em 0 6em;
     @include span-columns(4);
     font-size: 2.5em;
     }
-  h1{
-  @include span-columns(9);
-  line-height: 1.2;
+  p {
+  line-height: 1.5em;
   font-weight: 300;
-  font-size: 2.8em;
+  font-size: 1.5em;
+  padding: 10px 0;
 
   @media screen and (max-width: $break-large) {
     @include span-columns(11);

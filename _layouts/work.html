@@ -3,30 +3,21 @@ layout: default
 ---
 
 <div class="archive-page-header">
-  {{ content }}
+{{ content }}
 </div>
 
 {% for work in site.work %}
 <div class="post-list">
-
 <div class="post-img">
-
-  <img src="/uploads/{{ work.img }}">
-
-
+<img src="/uploads/{{ work.img }}">
 </div>
-
 <div class="post-copy">
-
-    <h2>
-      <a class="post-link" href="{{ work.link }}">{{ work.title }}</a>
-    </h2>
-
-    <p>
-    {{ work.excerpt }}
-    </p>
-
-  </div>
-
+<h2>
+<a class="post-link" href="{{ work.link }}">{{ work.title }}</a>
+</h2>
+<p>
+{{ work.excerpt }}
+</p>
+</div>
 </div>
 {% endfor %}

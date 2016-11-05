@@ -146,19 +146,18 @@
 
 .post-list {
 @include outer-container;
-margin-bottom: 1em;
+margin-bottom: 3em;
 
 }
 
 .post-img {
-    @include span-columns(6);
+    @include span-columns(5);
 }
 .post-copy {
-  @include span-columns(5);
+  @include span-columns(7);
   padding: 0 1em;
 
     h2 {
-      font-weight: $header-font-weight;
       font-size: 1.3em;
     }
 }
@@ -229,7 +228,7 @@ margin: 0;
 
  .post {
    @include outer-container;
-       margin-bottom: 3em;
+       margin-bottom: 5em;
  }
 
 .post-header {
