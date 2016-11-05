@@ -1,6 +1,7 @@
 ---
 title: Home
 date: 2016-11-05 06:40:00 Z
+position: 0
 ---
 
 Hello 👋🏼, my name is Peter Hironaka.
