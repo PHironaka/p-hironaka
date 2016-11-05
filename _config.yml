@@ -5,8 +5,8 @@ collections:
   posts:
     title: Posts
     output: true
-  production-credits:
-    title: Production Credits
+  work-producer:
+    title: Producer
     output: true
   uploads:
     title: Uploads
