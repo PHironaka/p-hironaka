@@ -13,8 +13,3 @@ In its current iteration, most of the recent content is what you'd see from a Cr
 
 I was able to dig up a large number of archived works TMC had produced in the past and give them new life in a responsive layout. Responsibilities included Web Development, Design, Project Management, Development of Tumblr Theme. Visit [ The Madbury Club ](http://madburyclub.com) to get the full experience. 
 
-
-![](./browser-source-code-copy.jpg)
-
-![mobile](./iPhone6a.jpg )
-
