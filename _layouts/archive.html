@@ -6,28 +6,11 @@ layout: default
 {{ content }}
 </div>
 
-{% for producer in site.producer %}
 <div class="post-list">
-<div class="post-img">
-<img src="/uploads/{{ work.img }}">
-</div>
-<div class="post-copy">
-<h2>
-<a class="post-link" href="{{ work.link }}">{{ work.title }}</a>
-</h2>
-<p>
-{{ work.excerpt }}
-</p>
-</div>
+{% for producer in site.producer %}
+<div class="archive-img">
+<img src="/uploads/{{ producer.img }}">
+<a class="title" href="{{ producer.link }}">{{ producer.title }}</a>
 </div>
 {% endfor %}
-
-{% for page in site.pages  %}
-{% if page.title =='Work'%}
-<p>
-
-  {{ page.production}} <a href="/producer">  {{page.link}}</a>
-
-</p>
-{% endif %}
-{% endfor %}
+</div>

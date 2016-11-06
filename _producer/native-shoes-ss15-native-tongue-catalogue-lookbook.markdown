@@ -2,7 +2,7 @@
 title: Native Shoes SS15 Native Tongue Catalogue Lookbook
 date: 2014-07-13 16:49:00 Z
 archive: archive
-img: New-Native-Blue-logo-(2)-(1).jpg
+img: VP_TMC_4.jpg
 link: http://www.madburyclub.com/native-shoes-technica-2015-moon-mission/
 ---
 

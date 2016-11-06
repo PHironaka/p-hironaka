@@ -1,10 +1,9 @@
 ---
-title: Hulu Seinfeld Holiday Campaign
-date: 2016-07-10 05:16:00 Z
-categories:
-- hero
-img: nsw.jpg
-link: http://www.hulu.com/watch/874418
+title: Nike Basketball Instagram Content
+date: 2014-07-13 05:16:00 Z
+archive: archive
+img: 11324384_1604837886442122_1476188214_n.jpg
+link: https://www.instagram.com/nikebasketball
 layout: post
 ---
 

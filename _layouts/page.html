@@ -7,6 +7,34 @@ layout: default
 
   <div class="post-content">
     {{ content }}
+
+
+    <ul>
+        {% if page.title =='About' %}
+      <li>
+        {% include icon-github.html username=site.github_username %}
+      </li>
+
+      <li>
+        {% include icon-instagram.html username=site.instagram_username %}
+      </li>
+
+      <li>
+        {% include icon-twitter.html username=site.twitter_username %}
+      </li>
+
+      <li>
+        {% include icon-codepen.html username=site.codepen_username %}
+      </li>
+
+      <li>
+        {% include icon-working-not-working.html username=site.twitter_username %}
+      </li>
+
+          {% endif %}
+
+    </ul>
+
   </div>
 
 </article>

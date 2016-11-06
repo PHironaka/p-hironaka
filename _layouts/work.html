@@ -8,16 +8,15 @@ layout: default
 
 {% for work in site.work %}
 <div class="post-list">
+  <h2>
+  <a class="post-link" href="{{ work.link }}">{{ work.title }}</a>
+  </h2>
 <div class="post-img">
 <img src="/uploads/{{ work.img }}">
 </div>
 <div class="post-copy">
-<h2>
-<a class="post-link" href="{{ work.link }}">{{ work.title }}</a>
-</h2>
-<p>
-{{ work.excerpt }}
-</p>
+
+{{ work.content }}
 </div>
 </div>
 {% endfor %}
