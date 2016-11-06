@@ -6,7 +6,7 @@ position: 0
 
 Hello 👋🏼, my name is Peter Hironaka. I'm a Front-End Developer based in sunny Venice, California. When I’m not in the ocean attempting to surf, I can be found  reading a book or refactoring old bits of Open Source code. If you have a project you’re interested in collaborating on, feel free to drop me a line on [email](mailto:peterhironaka@mac.com).
 
-Otherwise, I can be found on the usual: [Twitter](http://twitter.com/peterhironaka), [Instagram](http://instagram.com/peterhironaka), [LinkedIn](http://linkedin.com/peterhironaka), and Snapchat.
+Otherwise, I can be found on the usual: [Twitter](http://twitter.com/peterhironaka), [Instagram](http://instagram.com/peterhironaka), [LinkedIn](https://www.linkedin.com/in/peterhironaka, and Snapchat.
 
 Here is a direct link to my [Portfolio](/work).
 
