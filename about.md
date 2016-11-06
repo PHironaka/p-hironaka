@@ -23,3 +23,5 @@ Enough of the boring stuff though, right? Here's a few things I'm into these day
 6. Keeping our beaches clean
 7. Seeing the world through Kamauri's eyes
 8. Flake's Turkey Sausage Breakfast Burrito
+
+Get in touch with me on Social Media:
