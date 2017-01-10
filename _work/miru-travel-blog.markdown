@@ -8,8 +8,4 @@ link: http://miru.world
 layout: post
 ---
 
-Built a simple portfolio site for the talented young British Director. I used Static Site generator Middleman.
-
-Built a simple portfolio site for the talented young British Director. I used Static Site generator Middleman.
-
-Built a simple portfolio site for the talented young British Director. I used Static Site generator Middleman.
+It’s quite simple really: we want to see the world and document our adventures. In its most purest form, Miru is a Travel Journal. Join us as we venture to parts unknown as well as a few of our favorite places!
