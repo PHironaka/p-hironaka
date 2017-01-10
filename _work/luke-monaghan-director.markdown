@@ -10,6 +10,3 @@ layout: post
 
 Built a simple portfolio site for the talented young British Director. I used Static Site generator Middleman.
 
-Built a simple portfolio site for the talented young British Director. I used Static Site generator Middleman.
-
-Built a simple portfolio site for the talented young British Director. I used Static Site generator Middleman.
