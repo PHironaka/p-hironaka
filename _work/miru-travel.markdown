@@ -8,4 +8,4 @@ link: http://miru.world
 layout: post
 ---
 
-It’s quite simple really: we want to see the world and document our adventures. In its most purest form, Miru is a Travel Journal. Join us as we venture to parts unknown as well as a few of our favorite places!
+Miru Travel is a Travel Journal I created with my girlfriend Kamauri Yeh. I built the site with the help of Jekyll and Siteleaf. Join us as we venture to parts unknown as well as a few of our favorite places
