@@ -7,4 +7,4 @@ link: https://www.instagram.com/nikebasketball
 layout: post
 ---
 
-November 2014 content production for @nikebasketball. I was responsible for handling all on the ground logistics, which entailed permits, location scouting, assisted in casting and more. 
+November 2014 three day content production for @nikebasketball. I was responsible for handling all on the ground logistics, which entailed permits, location scouting, assisted in casting and more. 
