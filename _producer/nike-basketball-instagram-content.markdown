@@ -7,4 +7,4 @@ link: https://www.instagram.com/nikebasketball
 layout: post
 ---
 
-As producer on @nikesportswear, he’s helped grow the account from 70k followers to it’s current community of 1.1 million. Other highlights outside our normal scope of work include: Air Max Day 2014 Content, Sneakerboots 2014 Content, Nike Air Collection Video.
+November 2014 content production for @nikebasketball. I was responsible for handling all on the ground logistics, which entailed permits, location scouting, assisted in casting and more. 
