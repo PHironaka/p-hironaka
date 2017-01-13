@@ -7,4 +7,4 @@ link: https://www.instagram.com/nikesportswear
 layout: post
 ---
 
-This is not an unvitation. It's an invitation. Watch every joyous episode of Seinfeld, now streaming on Hulu. his is not an unvitation. It’s an invitation. Watch every joyous episode of Seinfeld, now streaming on Hulu.
+As producer on @nikesportswear, I've helped grow the account from 70k followers to it’s current community of 1.1 million. Other highlights outside our normal scope of work include: Air Max Day 2014 Content, Sneakerboots 2014 Content, Nike Air Collection Video.
