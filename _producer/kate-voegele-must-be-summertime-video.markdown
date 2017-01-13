@@ -8,4 +8,4 @@ link: http://www.miru.world/
 layout: post
 ---
 
-Takara Bunyon. Chet Brinkwater. Brink Chetwater? Native Shoes for Hypebeast TV. An Intergalactic Madbury Club production.
+In partnership with Amazon Music, I alongside my friends Matt Wilcox (DP) and Taylor Kavanaugh (Director) produced a music video for Kate Voegele's single 'Must Be Summertime'. My responsibilities included location scouting, casting, ROS management, crew selection, among others.
