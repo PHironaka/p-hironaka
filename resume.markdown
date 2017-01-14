@@ -14,9 +14,11 @@ Currently residing in Venice, California. I’m organized, thoughtful, and resul
 
 Currently the new kid in school.
 
+
 ### Hulu - Digital Producer, Marketing |  2015 - 2016
 
 Full time Hulugan and Digital Producer on the Creative Services team with a focus on Original and Acquired Content. It was my first foray into the world of TV and Entertainment Marketing. I helped produce and publish marketing materials for the following teams: Content Marketing, Brand, Email Marketing, Public Relations and Events.
+
 
 ### The Madbury Club - Digital Producer & Front-End Web Developer |  2013 - 2015
 
