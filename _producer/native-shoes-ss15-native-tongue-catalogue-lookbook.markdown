@@ -6,4 +6,4 @@ img: VP_TMC_4.jpg
 link: http://www.madburyclub.com/native-shoes-technica-moon-mission/
 ---
 
-The inaugural issue of The Native Tongue. A three part lookbook catalogue series shot in April 2014. The Madbury Club for Native Shoes. The lite has been kept.
+The inaugural issue of The Native Tongue. A three part lookbook catalogue series shot in April 2014. The Madbury Club for Native Shoes. Shout out to George Costanza on the hand modeling tips too. The lite has been kept.
