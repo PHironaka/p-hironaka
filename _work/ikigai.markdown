@@ -1,6 +1,7 @@
 ---
 title: Ikigai
 date: 2017-01-12 07:00:00 Z
+published: false
 link: http://ikigai.siteleaf.net/
 ---
 
