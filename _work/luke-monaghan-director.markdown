@@ -4,7 +4,7 @@ date: 2016-07-10 16:50:00 Z
 categories:
 - hero
 img: j_mirror_f.jpg
-link: http://miru.world
+link: http://lukemonaghan.co
 layout: post
 ---
 
