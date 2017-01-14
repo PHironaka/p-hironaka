@@ -8,4 +8,4 @@ link: http://www.hulu.com/watch/874418
 layout: post
 ---
 
-This is not an unvitation. It's an invitation. Watch every joyous episode of Seinfeld, now streaming on Hulu. 
+This is not an unvitation. It's an invitation. I helped produce a ton of marketing materials across digital, Print, and for the fan 'Apartment' experience in West Hollywood. As a lifelong Seinfeld fan, it doesn't get much better than this. 
