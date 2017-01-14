@@ -7,10 +7,12 @@ layout: default
 </div>
 
 <div class="post-list">
-{% for producer in site.producer %}
+{% assign siteProducer = site.producer | sort: 'date' | reverse %}
+{% for producer in siteProducer %}
 <div class="archive-img">
 <img src="/uploads/{{ producer.img }}">
-<a class="title" href="{{ producer.link }}">{{ producer.title }}</a>
+<a class="title" href="{{ producer.link }}" target="_blank">{{ producer.title }}</a>
+<p> {{ producer.content | strip_html }} </p>
 </div>
 {% endfor %}
 </div>

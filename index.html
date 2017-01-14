@@ -1,11 +1,34 @@
 ---
-layout: home
+layout: default
 ---
 
 <div class="home">
+
+<div class="home__intro">
   {% for page in site.pages  %}
   {% if page.title =='Home'%}
   {{ page.content}}
   {% endif %}
   {% endfor %}
+  </div>
+
+
+ {% for work in site.work  %}
+<div class="home__work">  
+<h1>{{ work.title}} </h1>
+  {{ work.content }}
+<a href=" {{work.link}}" target="_blank"> ↳ Link </a>
 </div>
+{% endfor %}
+
+<div class="home__archives">
+  {% for page in site.pages  %}
+  {% if page.title =='Work'%}
+  <P>{{ page.content}}</P>
+  {% endif %}
+  {% endfor %}
+  </div>
+
+
+
+</div> 
