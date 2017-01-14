@@ -1,6 +1,6 @@
 ---
 title: Kate Voegele Must Be Summertime Video
-date: 2016-07-09 16:51:00 Z
+date: 2016-09-09 16:51:00 Z
 categories:
 - hero
 img: kvoegele.jpg
