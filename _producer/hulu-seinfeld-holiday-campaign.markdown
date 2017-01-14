@@ -3,7 +3,7 @@ title: Hulu Seinfeld Holiday Campaign
 date: 2016-07-10 05:16:00 Z
 categories:
 - hero
-img: thumb.jpg
+img: seinfeld.jpg
 link: http://www.hulu.com/watch/874418
 layout: post
 ---

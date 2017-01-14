@@ -1,7 +1,7 @@
 ---
 title: Cosmic Explorations with Chet Brinkwater
 date: 2015-07-13 16:48:00 Z
-img: 54ff35915dde22a9ea001210.jpg
+img: chetter.jpg
 link: http://hypebeast.com/2015/3/native-shoes-presents-cosmic-exploration-featuring-takara-bunyon
 ---
 

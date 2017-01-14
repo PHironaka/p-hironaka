@@ -1,33 +1,11 @@
 ---
-layout: default
+layout: home
 ---
 
 <div class="home">
-
-  <h1 class="home-bio">{{site.description}}</h1>
-
-
-</div>
-
-
-<h1 class="page-heading">Production/Dev Credits</h1>
-
-<ul class="archive-list">
-  {% for post in site.posts %}
-
-    {% assign month = post.date | date: ' %Y' %}
-    {% unless post.next %}<!-- first post -->
-      <h2 class="archive__month">{{ month }}</h2>
-    {% else %}
-      {% capture next_month %}{{ post.next.date | date: ' %Y' }}{% endcapture %}
-      {% if month != next_month %}
-
-        <h2 class="archive__month">{{ month }}</h2>
-      {% endif %}
-    {% endunless %}
-    <li class="archive-item">
-      <a class="archive__link" href="{{ post.link }}">{{ post.title }}  &#x21B3;</a>
-      <p> {{ post.excerpt }}</p>
-    </li>
+  {% for page in site.pages  %}
+  {% if page.title =='Home'%}
+  {{ page.content}}
+  {% endif %}
   {% endfor %}
-</ul>
+</div>

@@ -5,6 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
+  producer:
+    title: Producer
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -12,8 +15,12 @@ collections:
     title: Work
     output: true
 email: your-email@domain.com
-description: |
-  Peter Hironaka is a Digital Producer & Front-End Developer living by the beach in Los Angeles,CA.
+description: "Hello \U0001F44B\U0001F3FC, my name is Peter Hironaka.\n\n\na Front-End
+  Developer based in Venice, California. When I’m not in the ocean attempting to surf,
+  I can be found  reading a book or refactoring old bits of Open Source code. If you
+  have a project you’re interested in collaborating on, feel free to drop me a line
+  on email.\n\nOtherwise, I can be found on the usual: Twitter, Facebook, Instagram,
+  Snapchat.\n\nHere is my Resumé.\n\nBoom."
 asset: "/uploads/DSCF6211.JPG"
 baseurl: 
 url: http://yourdomain.com
@@ -23,3 +30,4 @@ instagram_username: peterhironaka
 codepen_username: peterhironaka
 markdown: kramdown
 permalink: pretty
+wnw_username: 8975

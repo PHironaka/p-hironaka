@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="archive-page-header">
+{{ content }}
+</div>
+
+<div class="post-list">
+{% for producer in site.producer %}
+<div class="archive-img">
+<img src="/uploads/{{ producer.img }}">
+<a class="title" href="{{ producer.link }}">{{ producer.title }}</a>
+</div>
+{% endfor %}
+</div>
