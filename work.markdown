@@ -8,4 +8,4 @@ layout: work
 
 
 
-Everything else is either currently being built or not worthy of any praise let alone a share. My production credits can be found 👉🏼 HERE.
+Everything else is either currently being built or not worthy of any praise let alone a share. My production credits can be found 👉🏼 [HERE](/production).
