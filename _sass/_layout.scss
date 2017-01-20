@@ -93,7 +93,7 @@
  * Site footer
  */
 .site-footer {
-    
+
     font-size: .8em;
 
   .left {
@@ -131,7 +131,8 @@
  */
 .page-content {
     padding: 0;
-
+    margin: 0 0 3em;
+    
     &--home {
       padding: 5em 0;
     }
@@ -291,8 +292,8 @@ margin: .5em 0;
 }
 
 .post-content {
-    
-    &__resume {
+
+    &__page{
       @include span-columns(10);
     @include shift(1);
   font-weight: $base-font-weight;
@@ -346,17 +347,17 @@ font-size: 1.3em;
 input {border:0; outline:none;}
 
 #mc_embed_signup   {
-    
+
   @include span-columns(8);
     @include shift(2);
-    margin-top: 2em;  
+    margin-top: 2em;
 
 
               @media screen and (max-width: $break-small) {
 width: 100%;
 margin: 0;
 }
-    
+
  }
 /* MailChimp Form Embed Code - Classic - 12/17/2015 v10.7 */
 #mc_embed_signup form  {
@@ -448,7 +449,7 @@ margin: 0;
      width: 100%;
      padding: 8px 0;
      text-indent: 2%;
-     border-bottom: 2px solid; 
+     border-bottom: 2px solid;
     text-align: center;
     font-family: "Fira Sans", sans-serif;
     font-size: 1em;
@@ -501,7 +502,7 @@ margin: 0;
      position: relative;
      top: 5px;
 }
-     
+
 #mc_embed_signup .clear  {
     clear: both;
 }
@@ -604,4 +605,3 @@ margin: 0;
 #mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error  {
     border: 2px solid #e85c41;
 }
-
