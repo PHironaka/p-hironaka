@@ -29,3 +29,5 @@ gems:
 markdown: kramdown
 permalink: pretty
 wnw_username: 8975
+twitter:
+  username: peterhironaka
