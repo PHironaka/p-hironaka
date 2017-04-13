@@ -3,14 +3,11 @@ layout: default
 ---
 
 <div class="post-list">
-  {% for page in site.pages  %}
-  {% if page.title =='blog'%}
   {% for blog in site.blog  %}
   <h2>
   <a class="post-link" href="{{ blog.link }}">{{ blog.title }}</a>
   </h2>
   {% endfor %}
-  {% endif %}
-  {% endfor %}
+
 
 </div>
