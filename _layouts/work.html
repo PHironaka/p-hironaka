@@ -7,6 +7,8 @@ layout: default
   <h2>
   <a class="post-link" href="{{ blog.url }}">{{ blog.title }}</a>
   </h2>
+  <span> {{blog.date | date: '%B %d, %Y'}} </span>
+  {{ blog.excerpt }}
   {% endfor %}
 
 
