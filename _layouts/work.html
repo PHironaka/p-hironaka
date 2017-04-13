@@ -3,25 +3,14 @@ layout: default
 ---
 
 <div class="post-list">
-{% for work in site.work %}
-
-<div class="post-portfolio__img">
-<img src="/uploads/{{ work.img }}">
-</div>
-<div class="post-portfolio__post">
+  {% for page in site.pages  %}
+  {% if page.title =='blog'%}
+  {% for blog in site.blog  %}
   <h2>
-  <a class="post-link" href="{{ work.link }}">{{ work.title }}</a>
+  <a class="post-link" href="{{ blog.link }}">{{ blog.title }}</a>
   </h2>
-{{ work.content }}
-</div>
-{% endfor %}
-</div>
+  {% endfor %}
+  {% endif %}
+  {% endfor %}
 
-
-{% for page in site.pages  %}
-{% if page.title =='Blog'%}
-{% for blog in site.blog  %}
-  {{blog.title}}
-{% endfor %}
-{% endif %}
-{% endfor %}
+</div>
