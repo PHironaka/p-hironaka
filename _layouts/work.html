@@ -3,12 +3,12 @@ layout: default
 ---
 
 <div class="post-list">
-  {% for blog in site.blog  %}
+  {% for post in site.posts  %}
   <h2>
-  <a class="post-link" href="{{ blog.url }}">{{ blog.title }}</a>
+  <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
   </h2>
-  <span> {{blog.date | date: '%B %d, %Y'}} </span>
-  {{ blog.excerpt }}
+  <span> {{post.date | date: '%B %d, %Y'}} </span>
+  {{ post.excerpt }}
   {% endfor %}
 
 
