@@ -19,11 +19,9 @@ layout: default
 
 
 {% for page in site.pages  %}
-{% if page.title =='Work'%}
-<p>
-
-  {{ page.production}} <a href="/producer">  {{page.link}}</a>
-
-</p>
+{% if page.title =='Blog'%}
+{% for blog in site.blog  %}
+  {{blog.title}}
+{% endfor %}
 {% endif %}
 {% endfor %}
