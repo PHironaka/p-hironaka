@@ -9,13 +9,18 @@ layout: default
 
   {% for work in site.work  %}
   <div class="post-list">
-    <img src="{{work.image}}" alt="">
+    <div class="post-list__image">
+    <img src="{{work.image}}" alt="{{work.title}}">
+  </div>
+
+    <div class="post-list__content">
   <h2>
   <a class="post-link" href="{{ work.url }}">{{ work.title }}</a>
   </h2>
   <span> {{work.date | date: '%B %d, %Y'}} </span>
   {{ work.excerpt }}
   <a href="{{ work.link }}">Visit >></a>
+  </div>
   </div>
   {% endfor %}
 
