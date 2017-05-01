@@ -5,6 +5,23 @@ layout: default
   <div class="post-content__page">
 
     {{ content }}
+{% if page.title == 'Work' %}
+
+  {% for work in site.work  %}
+  <div class="post-list">
+    <img src="{{work.image}}" alt="">
+  <h2>
+  <a class="post-link" href="{{ work.url }}">{{ work.title }}</a>
+  </h2>
+  <span> {{work.date | date: '%B %d, %Y'}} </span>
+  {{ work.excerpt }}
+  <a href="{{ work.link }}">Visit >></a>
+  </div>
+  {% endfor %}
+
+
+
+{% endif %}
 
 {% if page.title == 'About' %}
 

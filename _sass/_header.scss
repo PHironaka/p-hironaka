@@ -36,9 +36,10 @@ display: inline-block;
 
 
         .button {
-          @include span-columns(2);
-
-  padding: 10px 0;
+          float: right;
+ display: block;
+ margin-left: 2.35765%;
+ padding: 10px 0;
   text-align: right;
   position: relative;
   transition: .3s;
@@ -60,6 +61,7 @@ display: inline-block;
     left: 50%;
     bottom: 0;
     height: 1px;
+    margin-left: -4px;
     background: #333;
     &:nth-of-type(2):after {
     left: 0;
