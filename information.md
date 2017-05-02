@@ -2,6 +2,7 @@
 title: About
 permalink: "/about/"
 position: 2
+image: "/uploads/space-pic.jpg"
 layout: page
 ---
 
