@@ -5,9 +5,12 @@ layout: default
   <div class="post-content__page">
 
     {{ content }}
+  </div>
 {% if page.title == 'Work' %}
+<h2>Work 2013-Present</h2>
 
   {% for work in site.work  %}
+
   <div class="post-list">
     <div class="post-list__image">
     <img src="{{work.image}}" alt="{{work.title}}">
@@ -82,4 +85,3 @@ layout: default
 
   </ul>
    {% endif %}
-  </div>
