@@ -95,6 +95,7 @@
 .site-footer {
 
     font-size: .8em;
+        clear: left;
 
   .left {
       @include span-columns(6);
@@ -132,7 +133,7 @@
 .page-content {
     padding: 0;
     margin: 0 0 3em;
-    
+
     &--home {
       padding: 5em 0;
     }
@@ -294,10 +295,8 @@ margin: .5em 0;
 .post-content {
 
     &__page{
-      @include span-columns(10);
-    @include shift(1);
+     @include outer-container;
   font-weight: $base-font-weight;
-  text-align: center;
 
 
          @media screen and (max-width: $break-small) {
@@ -326,7 +325,16 @@ font-size: 1.3em;
             margin: 0 1em;
     display: inline-block;
         }
+        .post-list {
+            &__content {
+                @include span-columns(6);
+            }
 
+            &__image {
+                @include span-columns(6);
+            }
+
+        }
 
     }
 

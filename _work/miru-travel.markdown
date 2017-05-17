@@ -3,7 +3,7 @@ title: Miru Travel
 date: 2016-07-10 16:50:00 Z
 categories:
 - hero
-img: miru.jpg
+image: "/uploads/miru.jpg"
 link: http://miru-travel.com
 layout: post
 ---

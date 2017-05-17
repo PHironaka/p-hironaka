@@ -1,7 +1,6 @@
 ---
 title: Work
-date: 2016-11-05 08:21:00 Z
-layout: work
+date: 2017-05-01 20:33:00 Z
+layout: page
 ---
 
-Everything else is either currently being built or not worthy of any praise let alone a share. You can see some of my carefully selected producer credits  👉🏼 here.
