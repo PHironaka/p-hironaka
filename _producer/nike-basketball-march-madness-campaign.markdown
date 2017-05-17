@@ -7,4 +7,4 @@ archive: archive
 Field name: 
 ---
 
-Space150 collaborated with Australian illustrator Chris Edser to produce illustrations and animations for Nike Basketball's 2017 March Madness campaign.  
+Space150 collaborated with Australian illustrator Chris Edser to produce illustrations and animations for Nike Basketball's 2017 March Madness campaign. 
