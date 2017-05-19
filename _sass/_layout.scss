@@ -143,8 +143,9 @@
  @include outer-container();
 margin: 0 0 2em ;
 .archive-img {
- @include span-columns(6);
-  @include omega(2n);
+ @include span-columns(4);
+  @include omega(3n);
+      padding: 0 1em 0 0;
 
     @media screen and (max-width: $break-small) {
         width: 100%;
@@ -206,8 +207,8 @@ width: 100%;
 
 
   p {
-    @include span-columns(10);
-     font-size: 1.6em;
+    @include span-columns(8);
+     font-size: 1.2em;
     padding: 0 0 2em;
 
       @media screen and (max-width: $break-small) {
