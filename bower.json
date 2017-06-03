@@ -1,0 +1,21 @@
+{
+  "name": "p-hironaka",
+  "homepage": "https://github.com/PHironaka/p-hironaka",
+  "authors": [
+    "PHironaka <peterhironaka@mac.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "aos": "^2.1.1"
+  }
+}

@@ -140,8 +140,8 @@
 }
 
 .post-list {
- @include outer-container();
-margin: 0 0 2em ;
+ @include outer-container;
+ margin: 0 0 2em ;
 .archive-img {
  @include span-columns(4);
   @include omega(3n);
@@ -304,6 +304,21 @@ margin: .5em 0;
     &__page{
      @include outer-container;
   font-weight: $base-font-weight;
+  &--content {
+    @include span-columns(8);
+    @media screen and (max-width: $break-small) {
+width: 100%;
+margin: 0;
+
+}
+  }
+   img {
+     @include span-columns(4);
+     @media screen and (max-width: $break-small) {
+width: 100%;
+margin: 1em 0;
+}
+   }
 
 
          @media screen and (max-width: $break-small) {
@@ -313,7 +328,7 @@ margin: .5em 0;
   }
 
         h3 {
-            font-size: 1.8em;
+            font-size: 1.3em;
                margin-top: 40px;
               @media screen and (max-width: $break-small) {
 font-size: 1.3em;
@@ -323,7 +338,7 @@ font-size: 1.3em;
         }
 
         p {
-            font-size: 1.2em;
+            font-size: 1em;
             margin-bottom: 25px;
         }
 

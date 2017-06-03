@@ -257,7 +257,8 @@ overflow: hidden;
  @include outer-container;
  margin: 3em 0;
  border-bottom: 1px solid #eee;
- padding: 0em 0 3em;
+ padding: 0em 0 2em;
+
 
     .image {
       float: left;
@@ -284,14 +285,14 @@ position: relative;
     h2 {
       @include span-columns(8);
       margin: 0 0 10px;
-      font-size: 1.31em;
+      font-size: 1.8em;
       @media screen and (max-width: $break-small) {
             width: 100%;
       }
     }
 
     p {
-        @include span-columns(7);
+        @include span-columns(6);
         font-size: 1em;
         @media screen and (max-width: $break-small) {
              width: 100%;
@@ -299,18 +300,23 @@ position: relative;
     }
 
     p.post-meta {
-      margin: 0;
+      margin: 10px 0;
       color: black;
       font-size: .8em;
     }
 
     &--link {
-      @include span-columns(2);
+      float: left;
+  display: block;
+  width: 30.76157%;
+  padding-left: 11em;
+  text-align: right;
 
-  padding-left: 1em;
+  padding-left: 10em;
       @media screen and (max-width: $break-small) {
            width: 100%;
            padding-left: 0;
+           text-align: left;
       }
     }
 
