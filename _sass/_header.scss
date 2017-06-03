@@ -61,8 +61,15 @@ display: inline-block;
     left: 50%;
     bottom: 0;
     height: 1px;
-    margin-left: -4px;
+    margin-left: -5.5px;
     background: #333;
+    @media screen and (max-width: $break-small) {
+      position: relative;
+      margin: 0;
+      padding: 0;
+
+  }
+
     &:nth-of-type(2):after {
     left: 0;
   }
