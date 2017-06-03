@@ -3,7 +3,6 @@ title: I'm learning to code (for real this time)
 date: 2017-04-13 17:50:00 Z
 ---
 
-
 This is my first blog post I've ever written in my life. Ok, that's a lie. I've made prior attempts at maintaining one, but all have been abandoned after a few short posts. This time is different, as my sole motive is to improve as a developer.
 
 I'm currently in my 7th week at General Assembly's Web Developer Immersive course. So far as a class, we've completed two projects: an interactive Javascript Game as well as a Ruby on Rails app. This will be the first and last time that I mention GA, as I'd prefer to direct the focus of my writing on my personal development.
