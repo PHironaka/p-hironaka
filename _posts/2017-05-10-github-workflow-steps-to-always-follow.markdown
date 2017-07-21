@@ -1,6 +1,8 @@
 ---
 title: Github workflow steps to always follow
 date: 2017-05-10 09:50:00 Z
+tags:
+- github
 ---
 
 In today's world of Web Development, it's a requirement to have some sort of Git workflow implemented into every project. It's something, I must admit, I'm still getting used to doing. But making good, solid commits is just as important as writing the actual code. Not only for yourself to be able to track progress, but for other developers who might have to work from the same code base. This will be extremely dry, but it's important to always follow these steps:
