@@ -1,6 +1,9 @@
 ---
 title: I'm learning to code (for real this time)
 date: 2017-04-13 17:50:00 Z
+tags:
+- node.js
+- terminal
 ---
 
 This is my first blog post I've ever written in my life. Ok, that's a lie. I've made prior attempts at maintaining one, but all have been abandoned after a few short posts. This time is different, as my sole motive is to improve as a developer.
