@@ -1,5 +1,8 @@
 ---
 title: New project 001
 date: 2017-07-19 20:01:00 Z
+tags:
+- rails
+- project
 ---
 
