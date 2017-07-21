@@ -1,6 +1,9 @@
 ---
 title: New project alert! 🚨🚨🚨
 date: 2017-07-19 20:01:00 Z
+tags:
+- rails
+- project
 ---
 
 For the past few weeks, I've been working on finishing the MVP of my first Rails app. It's called Scoutmaster, and I built it for Producers specifically during the location scouting process.
