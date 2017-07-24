@@ -4,4 +4,4 @@ date: 2017-07-24 19:27:00 Z
 link: https://phironaka.github.io/seinfeld-trivia/
 ---
 
-Built this javascript game to test the knowledge of my fellow Seinfeld brotheron.
+Built this javascript game to test the knowledge of my fellow Seinfeld brethren.
