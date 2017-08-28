@@ -5,6 +5,7 @@ tags:
 - Rails
 - MVC
 - Full Stack
+- API
 link: https://www.scoutmaster.pro
 ---
 
