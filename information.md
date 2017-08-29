@@ -29,6 +29,7 @@ If you're interested in collaborating on a project or just want to say hello, pl
 - [Instagram](https://instagram.com/peterhironaka)
 - [Working Not Working](https://workingnotworking.com/peterhironaka)
 
+Here is also a link to my [resumé](/resume).
 
 
 ### Resumé of Peter Hironaka
