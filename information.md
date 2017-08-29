@@ -30,6 +30,7 @@ If you're interested in collaborating on a project or just want to say hello, pl
 - [Twitter](https://twitter.com/peterhironaka)
 - [Facebook](https://facebook.com/peterhironaka)
 - [Instagram](https://instagram.com/peterhironaka)
+- [Github](https://github.com/PHironaka)
 - [Working Not Working](https://workingnotworking.com/peterhironaka)
 
 Here is also a link to my [resumé](/resume).
