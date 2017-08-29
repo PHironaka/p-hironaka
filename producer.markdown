@@ -6,4 +6,4 @@ layout: archive
 
 # Producer Credits
 
-Archived documentation of my notable experience as a Producer. I’ve dabbled in Print, and Broadcast, but my footprint is firmly rooted in Digital.
+Archived documentation of my notable experience as a Producer. I’ve dabbled in Print, and Broadcast, but my footprint was always firmly rooted in Digital.
