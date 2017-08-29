@@ -17,7 +17,7 @@ collections:
 email: peterhironaka@mac.com
 description: Web Developer based in Venice, CA.
 asset: "/uploads/DSCF6211.JPG"
-baseurl:
+baseurl: 
 url: http://peterhironaka.com
 twitter_username: peterhironaka
 github_username: phironaka
