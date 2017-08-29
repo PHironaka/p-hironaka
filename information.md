@@ -3,14 +3,13 @@ title: About
 permalink: "/about/"
 position: 2
 image: "/uploads/space-pic.jpg"
-intro: For the past 5 years, I've been a Digital and Social Media Content Producer,
-  working with some of the coolest brands in the world. While it's been a blast and
-  I still enjoy my role as a Producer, it's time for me to make the jump into the
-  world of Web Development.
+description: |-
+  # Established 1987.
+
+  For the past 5 years, I've been a Digital and Social Media Content Producer, working with some of the coolest brands in the world. While it's been a blast and I still enjoy my role as a Producer, it's time for me to make the jump into the world of Web Development.
 layout: page
 ---
 
-# Established 1987.
 
 For the past 5 years, I've been a Digital and Social Media Content Producer, working with some of the coolest brands in the world. While it's been a blast and I still enjoy my role as a Producer, it's time for me to make the jump into the world of Web Development.
 
