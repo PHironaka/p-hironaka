@@ -341,11 +341,7 @@ position: relative;
     }
 
     p {
-        @include span-columns(6);
         font-size: 1em;
-        @media screen and (max-width: $break-small) {
-             width: 100%;
-        }
     }
 
     p.post-meta {
@@ -354,14 +350,20 @@ position: relative;
       font-size: .8em;
     }
 
+      &--content {
+        @include span-columns(8);
+
+        @media screen and (max-width: $break-small) {
+             width: 100%;
+        }
+
+      }
+
     &--link {
-      float: left;
-  display: block;
-  width: 30.76157%;
-  padding-left: 11em;
+      @include span-columns(4);
+  padding-left: 6em;
   text-align: right;
 
-  padding-left: 10em;
       @media screen and (max-width: $break-small) {
            width: 100%;
            padding-left: 0;
