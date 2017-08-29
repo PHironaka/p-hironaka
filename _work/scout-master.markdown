@@ -2,10 +2,9 @@
 title: Scout Master
 date: 2017-06-22 22:49:00 Z
 tags:
-- Rails
-- MVC
-- Full Stack
-- API
+- rails
+- api
+- mvc
 link: https://www.scoutmaster.pro
 ---
 
