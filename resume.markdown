@@ -5,14 +5,12 @@ position: 1
 layout: page
 ---
 
-# Resumé of Peter Hironaka
+### Resumé of Peter Hironaka
+For those of you who are interested in seeing my career path up to this point. A few previous professional endeavors. Presently, I'm testing the Freelance market, this time as a Web Developer.
 
-Currently residing in Venice, California. I’m organized, thoughtful, and results driven. The majority of my experience has been in both Digital and Social Media Production. I have also have experience building websites of varying size and scope. 
+### Space150 - Digital Producer |  2016 - 2017
 
-
-### Space150 - Digital Producer |  2016
-
-Currently the new kid in school.
+A return to agency life also meant a return to producing work for my favorite brand in the world. I helped manage production updates to nike.com/sportswear across multiple campaign initiatives. I also had the opportunity to work with Nike Basketball's North America team as both a Producer and Account Lead. Fun times working with fun people on fun projects. Cheers to Ned and his majestic mustache.
 
 
 ### Hulu - Digital Producer, Marketing |  2015 - 2016
@@ -20,7 +18,7 @@ Currently the new kid in school.
 Full time Hulugan and Digital Producer on the Creative Services team with a focus on Original and Acquired Content. It was my first foray into the world of TV and Entertainment Marketing. I helped produce and publish marketing materials for the following teams: Content Marketing, Brand, Email Marketing, Public Relations and Events.
 
 
-### The Madbury Club - Digital Producer & Front-End Web Developer |  2013 - 2015
+### The Madbury Club - Digital Producer & Front-End Developer |  2013 - 2015
 
 Made a lot of fun stuff with my friends. I was also fortunate to collaborate with some of the greatest brands in the world. Oh, and I got to be an astronaut for a day. Take that, take that.
 

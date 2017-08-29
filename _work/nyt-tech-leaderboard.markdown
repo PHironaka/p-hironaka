@@ -1,6 +1,9 @@
 ---
 title: NYT Tech Leaderboard
 date: 2017-08-22 18:04:00 Z
+tags:
+- api
+- javascript
 link: https://phironaka.github.io/NYT-Tech-Report/
 ---
 

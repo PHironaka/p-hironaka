@@ -15,7 +15,7 @@ collections:
     title: Work
     output: true
 email: peterhironaka@mac.com
-description: Front End Developer based in Venice, CA.
+description: Web Developer based in Venice, CA.
 asset: "/uploads/DSCF6211.JPG"
 baseurl: 
 url: http://peterhironaka.com
@@ -25,9 +25,12 @@ instagram_username: peterhironaka
 codepen_username: peterhironaka
 gems:
 - jekyll-seo-tag
-- jekyll-sitemap
+- jekyll/tagging
 markdown: kramdown
 permalink: pretty
+tag_permalink_style: pretty
+tag_page_layout: tag_page
+tag_page_dir: tags
 wnw_username: 8975
 twitter:
   username: peterhironaka

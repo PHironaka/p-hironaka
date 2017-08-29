@@ -1,8 +1,9 @@
 ---
 title: Miru Travel
 date: 2016-07-10 16:50:00 Z
-categories:
-- hero
+published: false
+tags:
+- portfolio
 img: 4NztfVj7.jpg
 link: http://miru-travel.com
 layout: post
