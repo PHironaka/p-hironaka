@@ -33,6 +33,7 @@ layout: default
 
   <!-- <img src="/uploads/{{ work.img }}"> -->
   <!-- <p class="post-meta"><time datetime="{{ work.date | date_to_xmlschema }}" itemprop="datePublished">{{ work.date | date: "%b %-d %Y" }}</time>{% if work.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ work.author }}</span></span>{% endif %}</p> -->
+  <div class="home__work--content">
 
   <a href=" {{work.link}}" target="_blank"><h2>{{ work.title}} </h2>  </a>
   {{ work.content }}
@@ -41,6 +42,9 @@ layout: default
   {{ tag }}
 {% endfor %}
 </p>
+</div>
+
+
 <div class="home__work--link">
   <a href=" {{work.link}}" target="_blank"> Link to work ↳  </a>
 </div>
