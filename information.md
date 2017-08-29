@@ -22,7 +22,12 @@ For the past 5 years, I've been a Digital and Social Media Content Producer, wor
 
 
 ### How to get a hold of me:
-If you're interested in collaborating on a project or just want to say hello, please email me: [peterhironaka@mac.com](mailto:peterhironaka@mac.com). I'm also active on social media, 
+If you're interested in collaborating on a project or just want to say hello, please email me: [peterhironaka@mac.com](mailto:peterhironaka@mac.com). I'm also active on social media & other places on the internet. Here are a few relevant links where you can find me and get a hold of me:
+
+- [Twitter](https://twitter.com/peterhironaka)
+- [Facebook](https://facebook.com/peterhironaka)
+- [Working Not Working](https://workingnotworking.com/peterhironaka)
+
 
 
 ### Resumé of Peter Hironaka
