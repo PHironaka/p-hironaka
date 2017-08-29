@@ -13,7 +13,7 @@ layout: page
 
 For the past 5 years, I've been a Digital and Social Media Content Producer, working with some of the coolest brands in the world. It was a blast, and I'll always have positive memories of being a producer. Since the June 2017, I've taken the plunge and am now working as a Freelance Web Developer.
 
-## Skills / Projects I currentlyenjoy working on
+## Skills / Projects I currently enjoy working on
 - Agency & Portfolio sites
 - Ruby on Rails
 - React
