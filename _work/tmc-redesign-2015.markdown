@@ -1,8 +1,6 @@
 ---
 title: TMC Redesign
 date: 2015-07-10 16:50:00 Z
-categories:
-- hero
 tags:
 - portfolio
 img: browser-source-code.jpg
