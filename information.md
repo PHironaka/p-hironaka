@@ -18,7 +18,7 @@ For the past 5 years, I've been a Digital and Social Media Content Producer, wor
 - Ruby on Rails
 - React
 - Ember.js
-- 
+- Shopify
 
 If you're interested in collaborating on a project or just want to say hello, please email me: [peterhironaka@mac.com](mailto:peterhironaka@mac.com).
 
