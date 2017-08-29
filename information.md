@@ -17,7 +17,7 @@ If you're interested in collaborating on a project or just want to say hello, pl
 
 
 ## Resumé of Peter Hironaka
-A few previous professional endeavors. Presently, I'm testing the Freelance market.
+A few previous professional endeavors. Presently, I'm testing the Freelance market, this time as a Web Developer.
 
 ### Space150 - Digital Producer |  2016 - 2017
 
