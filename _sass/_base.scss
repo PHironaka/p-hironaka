@@ -25,7 +25,6 @@ body {
     background-color: #fff;
     line-height: 1.5;
     font-size: 1em;
-    font-weight:300;
 }
 
 hr {
@@ -53,7 +52,6 @@ ul, ol, dl, figure,
 
 h1, h2, h3, h4 {
   font-family: $header-font-family;
-  font-weight: $header-font-weight;
 
 }
 
@@ -109,7 +107,6 @@ h1 {
 
 h2.archive__month {
   @include span-columns(3);
-    font-weight: 900;
     font-size: 1.2em;
     border-top: 2px solid #eee;
     padding-top: 1em;
