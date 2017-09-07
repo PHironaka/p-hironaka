@@ -308,7 +308,6 @@ margin: .5em 0;
 
     &__page{
      @include outer-container;
-  font-weight: $base-font-weight;
   &--content {
     @include span-columns(8);
     @media screen and (max-width: $break-small) {
