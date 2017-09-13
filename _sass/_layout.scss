@@ -92,6 +92,22 @@
 /**
  * Site footer
  */
+ #heart {
+   animation: dance .7s infinite alternate;
+ }
+
+ @keyframes dance {
+   0% {
+       transform: scale(1.0);
+       -webkit-transform: scale(1.0);
+   }
+   100% {
+       transform: scale(1.2);
+       -webkit-transform: scale(1.2);
+   }
+ }
+
+
 .site-footer {
 
     font-size: .8em;

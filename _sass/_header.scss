@@ -11,9 +11,10 @@ display: block;
     margin-bottom: 3em;
 
     a.index {
-      padding: 1em 0;
+      padding: 1em 0px;
 position: relative;
 display: inline-block;
+vertical-align: top;
 
 
       @media screen and (max-width: $break-small) {
