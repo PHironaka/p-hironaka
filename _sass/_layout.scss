@@ -242,6 +242,10 @@ width: 100%;
   margin: 4em 0;
   .archive-content{
     @include span-columns(9);
+    @media screen and (max-width: $break-small) {
+      width: 100%;
+
+    }
   }
   @media screen and (max-width: $break-small) {
     margin: 2em 0;
