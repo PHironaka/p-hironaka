@@ -1,5 +1,5 @@
 ---
-title: Lauren Gallo
+title: Lauren Gallo - portfolio website
 date: 2017-09-15 21:44:00 Z
 tags:
 - portfolio
