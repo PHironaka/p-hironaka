@@ -1,6 +1,8 @@
 ---
 title: Phillip T Annand personal site
 date: 2017-09-16 00:00:00 Z
+tags:
+- portfolio
 link: http://www.philliptannand.com/
 ---
 
