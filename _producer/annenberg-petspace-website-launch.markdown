@@ -5,4 +5,4 @@ link: https://annenbergpetspace.org
 img: annenberg.jpg
 ---
 
-My final producer credit. I helped launch annenbergpetspace.org in the final 6 week stretch. Primary duties included extensive QA and working with Production Shop to ensure all bug fixes were implemented prior to launch. 
+I helped launch annenbergpetspace.org in the final 6 week stretch. Primary duties included extensive QA and working with Production Shop to ensure all bug fixes were implemented prior to launch. 
