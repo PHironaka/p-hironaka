@@ -6,4 +6,4 @@ tags:
 link: http://www.philliptannand.com/
 ---
 
-I built this many moons ago for my über talented friend Phillip T. Annand. Back in the day when I was part of TMC.
+I built this many moons ago for my über talented friend Phillip T. Annand, back in the day when I was part of TMC.
