@@ -1,0 +1,6 @@
+---
+title: Phillip T Annand personal site
+date: 2017-09-16 00:00:00 Z
+---
+
+I built this many moons ago for my über talented friend Phillip T. Annand. Back in the day when I was part of TMC.
