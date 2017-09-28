@@ -1,9 +1,62 @@
-<!DOCTYPE html>
-<html>
-  {% include head.html %}
-  <body>
-<div class="page-content--home">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+---
+layout: default
+---
+
+<div class="home">
+
+<div class="home__intro">
+  {% for page in site.pages  %}
+  {% if page.title =='Home'%}
+  {{ page.content}}
+  {% endif %}
+  {% endfor %}
+  </div>
+
+
+
+  <ul class="home__selector">
+     <li class="filter filter-all active">All</li>
+     {% for tag in site.tags %}
+     {% assign t = tag | first %}
+    <li class="filter filter-{{t | downcase   }}">
+      {{ t }}
+    </li>
+    {% endfor %}
+  </ul>
+
+
+{% assign sorted = site.work | reverse   %}
+ {% for work in sorted  %}
+
+
+<div class="home__work {% for tag in work.tags %} {{ tag | downcase }}{% endfor %} all "  data-aos="fade-up" data-aos-offset="200" data-aos-duration="600" data-aos-once="true">
+
+  <!-- <img src="/uploads/{{ work.img }}"> -->
+  <!-- <p class="post-meta"><time datetime="{{ work.date | date_to_xmlschema }}" itemprop="datePublished">{{ work.date | date: "%b %-d %Y" }}</time>{% if work.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ work.author }}</span></span>{% endif %}</p> -->
+  <div class="home__work--content">
+
+  <a href=" {{work.link}}" target="_blank"><h2>{{ work.title}} </h2>  </a>
+  {{ work.content }}
+  <p>
+  {% for tag in work.tags %}
+  {{ tag }}
+{% endfor %}
+</p>
+</div>
+
+
+<div class="home__work--link">
+  <a href=" {{work.link}}" target="_blank"> Link to work ↳  </a>
+</div>
+
+
+</div>
+
+{% endfor %}
+
+<p> You can view my Producer credits 👉🏾 <a href="/producer">here </a>. </p>
+
+
+
+
+</div>
