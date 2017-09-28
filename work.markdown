@@ -1,5 +1,5 @@
 ---
-title: Work
+title: Dev Credits
 date: 2017-05-01 20:33:00 Z
 layout: home
 ---
