@@ -1,3 +1,11 @@
+---
+title: Change Log
+date: 2016-11-05 06:40:00 Z
+position: 0
+image: "/uploads/space-pic.jpg"
+exclude_from_nav: true
+---
+
 # Change Log
 
 ## [2.1.0]

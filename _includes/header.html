@@ -68,12 +68,38 @@
     <use xlink:href="#r6" transform="rotate(330 160 160)"/>
     </svg>
           <nav >
-          <ul>
+          <!-- <ul>
             <li class="button"><a href="/">Work</a></li>
               <li class="button"><a href="/producer">Producer Credits</a></li>
               <li class="button"><a href="/about">About</a></li>
 
+          </ul> -->
+
+          <ul >
+            <li class="button">
+              <a href="https://blog.peterhironaka.com" itemprop="url">
+                  Blog
+              </a>
+            </li>
+            <!-- site.pages links -->
+
+            {% for page in site.pages %}
+          {% unless page.exclude_from_nav %}
+             {% if page.title %}
+             <li class="button">
+               <a href="{{ page.url | relative_url }}" itemprop="url">
+               {{ page.title }}
+             </a>
+           </li>
+             {% endif %}
+          {% endunless %}
+        {% endfor %}
+
+
+
           </ul>
+
+
           </nav>
         </div>
 </header>
