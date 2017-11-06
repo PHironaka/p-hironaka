@@ -4,7 +4,7 @@ date: 2016-07-10 16:50:00 Z
 tags:
 - portfolio
 img: Champions%20Mentality-all%20players-Chris-Edser-Nike.jpg
-link: http://lukemonaghan.co
+link: https://2015.lukemonaghan.co/
 layout: post
 ---
 
