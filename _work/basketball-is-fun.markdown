@@ -1,5 +1,5 @@
 ---
-title: Basketball Is Fun
+title: "Basketball Is Fun \U0001F3C0"
 date: 2017-11-30 19:07:00 Z
 link: https://basketball-is.fun
 ---
