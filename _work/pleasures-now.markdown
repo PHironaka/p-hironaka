@@ -1,6 +1,9 @@
 ---
 title: Pleasures Now
 date: 2018-02-07 08:01:00 Z
+tags:
+- ecommerce
+- shopify
 link: https://pleasuresnow.com
 ---
 
