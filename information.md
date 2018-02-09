@@ -19,10 +19,9 @@ This website was built with Jekyll and its content is managed via [Siteleaf](htt
 ### Skills / Projects I currently enjoy working on
 - Digital & Creative Production
 - Agency & Portfolio sites
-- Ruby on Rails
-- Django 
+- Full Stack Web App Frameworks (Ruby on Rails, Django)
+- PWAs 
 - React
-- Ember.js
 - Templates (Shopify)
 
 
