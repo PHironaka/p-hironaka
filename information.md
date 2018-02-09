@@ -20,9 +20,10 @@ This website was built with Jekyll and its content is managed via [Siteleaf](htt
 - Digital & Creative Production
 - Agency & Portfolio sites
 - Ruby on Rails
+- Django 
 - React
 - Ember.js
-- Templates (Shopify, Squarespace)
+- Templates (Shopify)
 
 
 ### How to get a hold of me:
