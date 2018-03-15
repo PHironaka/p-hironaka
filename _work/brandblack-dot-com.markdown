@@ -3,4 +3,4 @@ title: Brandblack.com
 date: 2018-03-14 16:27:00 Z
 ---
 
-Built a custom Shopify theme for Brandblack, a technical sportswear brand who makes footwear and apparel products.
+Brandblack works to find a natural harmony between technology and humanity through their apparel and footwear products. I built a custom Shopify theme courtesy of the Slate starter theme.
